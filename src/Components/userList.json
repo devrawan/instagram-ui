@@ -1,0 +1,47 @@
+[
+    {
+       "user":"rawan",
+       "url": "https://wallpaperaccess.com/full/5063862.jpg",
+       "post":"let’s modify our backend code so that it can handle user and comment",
+       "Date" :"24 minute ago ",
+       "likes":"1234.3",
+       "liked":true
+   },
+   {   
+       "user":"maram",
+       "url": "https://www.kindpng.com/picc/m/98-986229_panda-png-transparent-png.png",
+       "post":"let’s modify our backend code so that it can handle user and comment",
+       "Date" :"20 minute ago",
+       "likes":"1234.3",
+       "liked":true
+   },
+   {
+       "user":"ola..",
+       "url": "https://www.finetoshine.com/wp-content/uploads/2020/04/Beautiful-Girl-Wallpapers-New-Photos-Images-Pictures.jpg",
+       "post":"let’s modify our backend code so that it can handle user and comment",
+       "Date" :"11 minute ago",
+       "likes":"1234.3",
+       "liked":true
+   },
+   {
+       "user":"hala",
+       "url": "https://www.planetware.com/wpimages/2019/10/japan-in-pictures-most-beautiful-places-arashiyama-bamboo-grove-kyoto.jpg",
+       "post":"let’s modify our backend code so that it can handle user and comment",
+       "Date" :"44 minute ago",
+       "likes":"1234.3",
+       "liked":false
+   },
+   {
+       "user":"alaa",
+       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAVoHN34SJEl0q1uZ2HknXEUlNeji9i7ah2W-29wEQcOjUXiZsMf3cZC70VvTV9ENtGUA&usqp=CAU",
+       "post":"let’s modify our backend code so that it can handle user and comment",
+       "Date" :"34",
+       "likes":"1234.3",
+       "liked":false
+   }
+   ]
+   
+
+
+
+
